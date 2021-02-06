@@ -1,0 +1,109 @@
+.topbar{
+      background-color: #FFF9F4;
+}
+/*Navbar Logo  */
+.logo{
+      margin-top: 20px;
+      margin-bottom: 10px;
+      width: 292px;
+      height: 40px;
+}
+li{
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      color: #3C3C3C;
+      float: left;
+}
+/* Body-Header*/  
+.top-img{
+      width: 80%;
+      justify-content: center;
+      align-items: flex-start;
+}
+/*  */
+.topbanner{
+      height: 520px;
+      width: auto;
+}
+/* .top-text-2{
+      font-family: 'Bebas Neue', cursive;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 80px;
+      color: #363958;
+      letter-spacing: 0px;
+      display: flex;
+      align-items: flex-end;
+}
+/*  */
+.top-text{
+      text-align: justify;
+      margin-left: 8%;
+}
+.top-buy-now{
+      font-size: 16px;
+      color: white;
+      width: 170px;
+      height: 60px;
+      padding: 17.5px;
+      margin: 5px;
+      border-radius: 10px;
+      background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+      border-radius: 10px;
+}
+.span-top-text{
+      color: #FA804C;
+}
+/* category CASUL SHOES and Formal Card Tittle */
+div h1{
+      margin-top: 35px;
+      margin-bottom: 35px;
+      font-family: 'Bebas Neue', cursive;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 48px;
+      color: #363958;
+}
+
+/* Bootstrap Card */
+/* Card Body Style*/
+.col{
+      padding: 5px;
+      background: #FFFFFF;
+      box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+      border-radius: 20px;
+      }
+      /* Card Body Tittel */
+.card-title{
+      color:#363958;
+      font-family: Roboto;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 28px;
+      letter-spacing: 0em;
+      text-align: left;
+}
+/* Card Body Text */
+.card-text{
+      color: 3E3E3E;
+      font-family: Roboto;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      letter-spacing: 0em;
+      text-align: left;
+}
+/* Card Button Style*/
+.bottom-wrap {
+      padding: 15px;
+  }
+
+.price-new{
+      font-size: 36px;
+      font-weight: 1000;
+      color: #FA804C ;
+}
+/* Card End */
