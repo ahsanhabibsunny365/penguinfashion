@@ -107,3 +107,35 @@ div h1{
       color: #FA804C ;
 }
 /* Card End */
+/*Footer Section*/
+.sub-section{
+      background-color: #FFF9F4;
+}
+#subscribe{
+       height: 300px;
+      }
+#subscribe h6{
+    color: gray;
+}
+.submit-now-button{
+      background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      padding: 9px 25px;
+      cursor: pointer;
+  }
+footer{
+      background-color: #FFF9F4;
+      color: gray;
+      font-family: Roboto;
+      text-align: center;
+      font-size: 20px;
+      font-weight: 800;
+      margin-bottom: 10px;
+}
+.devurl{
+      text-decoration: none;
+      color: gray;
+}
+
