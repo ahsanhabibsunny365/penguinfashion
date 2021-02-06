@@ -22,22 +22,13 @@ li{
       justify-content: center;
       align-items: flex-start;
 }
-/*  */
+/* Topbanner  */
 .topbanner{
       height: 520px;
       width: auto;
 }
-/* .top-text-2{
-      font-family: 'Bebas Neue', cursive;
-      font-style: normal;
-      font-weight: bold;
-      font-size: 80px;
-      color: #363958;
-      letter-spacing: 0px;
-      display: flex;
-      align-items: flex-end;
-}
-/*  */
+
+/* Topbar */
 .top-text{
       text-align: justify;
       margin-left: 8%;
@@ -69,6 +60,9 @@ div h1{
 
 /* Bootstrap Card */
 /* Card Body Style*/
+.card{
+      border: none !important;
+}
 .col{
       padding: 5px;
       background: #FFFFFF;
@@ -138,4 +132,3 @@ footer{
       text-decoration: none;
       color: gray;
 }
-
